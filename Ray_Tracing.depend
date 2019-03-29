@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1553681375 source:c:\users\edouard\documents\developpement\cpp\ray_tracing\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"camera.h"
+	"sphere.h"
+	"hitable_list.h"
+	"vec3.h"
+	"material.h"
+	"transform.h"
+
+1553433262 source:c:\users\edouard\documents\developpement\cpp\ray_tracing\vec3.cpp
+	"vec3.h"
+
+1553433339 c:\users\edouard\documents\developpement\cpp\ray_tracing\vec3.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1551434409 c:\users\edouard\documents\developpement\cpp\ray_tracing\ray.h
+	"vec3.h"
+
+1553246807 source:c:\users\edouard\documents\developpement\cpp\ray_tracing\hitable_list.cpp
+	"hitable_list.h"
+
+1551433112 c:\users\edouard\documents\developpement\cpp\ray_tracing\hitable_list.h
+	"hitable.h"
+
+1551549244 c:\users\edouard\documents\developpement\cpp\ray_tracing\hitable.h
+	"ray.h"
+
+1553419901 source:c:\users\edouard\documents\developpement\cpp\ray_tracing\sphere.cpp
+	"sphere.h"
+
+1553434297 c:\users\edouard\documents\developpement\cpp\ray_tracing\sphere.h
+	<iostream>
+	<vector>
+	"math.h"
+	"hitable.h"
+	"hitable_list.h"
+	"material.h"
+	"transform.h"
+
+1552315113 c:\users\edouard\documents\developpement\cpp\ray_tracing\camera.h
+	"ray.h"
+
+1553722447 c:\users\edouard\documents\developpement\cpp\ray_tracing\material.h
+	"ray.h"
+	"vec3.h"
+	"sphere.h"
+
+1551705960 source:c:\users\edouard\documents\developpement\cpp\ray_tracing\material.cpp
+	"material.h"
+
+1553435534 c:\users\edouard\documents\developpement\cpp\ray_tracing\transform.h
+	"vec3.h"
+	<cmath>
+
